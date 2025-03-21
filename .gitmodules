@@ -1,3 +1,6 @@
 [submodule "plugin_architecture_exercise"]
 	path = plugin_architecture_exercise
 	url = git@github.com:Megacephalo/plugin_architecture_exercise.git
+[submodule "basic-slam-pipeline-python"]
+	path = basic-slam-pipeline-python
+	url = git@github.com:Megacephalo/basic-slam-pipeline-python.git
